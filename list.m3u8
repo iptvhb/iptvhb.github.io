@@ -1,0 +1,30 @@
+央视,#genre#
+#EXTM3U
+#EXTINF:-1 ,Unknown_1
+http://39.134.168.91/PLTV/1/224/3221225510/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+#EXTINF:-1 ,Unknown_2
+http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.168.91/PLTV/1/224/3221225550/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+#EXTINF:-1 ,Unknown_3
+http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.168.91/PLTV/1/224/3221225552/index.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+#EXTINF:-1 ,Unknown_4
+http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.168.91/PLTV/1/224/3221225554/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+#EXTINF:-1 ,Unknown_5
+http://39.134.168.91/PLTV/1/224/3221225556/index.m3u8
+#EXTINF:-1 ,Unknown_6
+http://39.134.168.91/PLTV/1/224/3221225558/index.m3u8#http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,Unknown_7
+http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.168.91/PLTV/1/224/3221225560/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+#EXTINF:-1 ,Unknown_8
+http://39.134.168.91/PLTV/1/224/3221225562/index.m3u8
+#EXTINF:-1 ,Unknown_9
+http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 ,Unknown_10
+http://39.134.168.91/PLTV/1/224/3221225564/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+#EXTINF:-1 ,Unknown_11
+http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.168.91/PLTV/1/224/3221225566/index.m3u8
+#EXTINF:-1 ,Unknown_12
+http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.168.91/PLTV/1/224/3221225568/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+#EXTINF:-1 ,Unknown_13
+http://39.134.168.91/PLTV/1/224/3221225572/index.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
+#EXTINF:-1 ,Unknown_14
+http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.168.91/PLTV/1/224/3221225570/index.m3u8
