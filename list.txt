@@ -76,3 +76,8 @@ CETV3,http://ivi.bupt.edu.cn/hls/cetv3.m3u8
 max极速汽车,http://39.134.168.91/PLTV/1/224/3221225600/index.m3u8
 都是频道,http://39.134.168.91/PLTV/1/224/3221225610/index.m3u8
 欢笑剧场,http://39.134.168.91/PLTV/1/224/3221225618/index.m3u8
+港澳台,#genre#
+凤凰卫视中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://223.110.245.167/ott.js.chi
+namobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰卫视资讯台,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰卫视香港台,http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
