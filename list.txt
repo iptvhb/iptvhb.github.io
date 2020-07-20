@@ -40,8 +40,8 @@ CNN,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 南方卫视,http://39.134.156.12/PLTV/88888888/224/3221225614/index.m3u8
 青海卫视,http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8
 河北卫视,http://39.134.168.91/PLTV/1/224/3221225624/index.m3u8#http://live5.plus.hebtv.com/hbws/sd/live.m3u8
-河南卫视HD,http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000193.m3u8
-四川卫视,http://liveplay-kk.rtxapp.com/live/program/live/scws/1300000/mnf.m3u8#http://39.130.215.166:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
+河南卫视,http://183.207.255.188/live/program/live/hnws/1300000/mnf.m3u8#http://ivi.bupt.edu.cn/hls/hntv.m3u8
+四川卫视,http://219.145.171.78/scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/scws/1300000/mnf.m3u8#http://39.130.215.166:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
 内蒙古卫视,http://39.134.168.91/PLTV/1/224/3221225626/index.m3u8#http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
 陕西卫视,http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8
 农林卫视,http://39.130.215.166:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
@@ -80,7 +80,7 @@ max极速汽车,http://39.134.168.91/PLTV/1/224/3221225600/index.m3u8
 港澳台,#genre#
 凤凰卫视中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://223.110.245.167/ott.js.chi
 namobile.com/PLTV/3/224/3221226922/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰卫视资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰卫视资讯台,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.120.138:8080/live/fhzixun/.m3u8
 凤凰卫视香港台,http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
