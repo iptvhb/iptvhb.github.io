@@ -30,13 +30,13 @@ CNN,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 深圳卫视,http://39.134.168.91/PLTV/1/224/3221225534/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
 黑龙江卫视,http://39.134.168.91/PLTV/1/224/3221225538/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 吉林卫视,http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000195.m3u8#http://39.130.215.166:6410/gitv_live/G_JILIN/G_JILIN.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=050&Provider_id=&Pcontent_id=index.m3u8
-辽宁卫视,http://cctvalih5ca.v.myalicdn.com/wstv/liaoning_2/index.m3u8#http://219.153.252.50/PLTV/88888888/224/3221225540/chunklist.m3u8#http://39.134.168.91/PLTV/1/224/3221225590/index.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225832/1.m3u8
+辽宁卫视,http://219.153.252.50/PLTV/88888888/224/3221225540/chunklist.m3u8#http://cctvksh5ca.v.kcdnvip.com/wstv/liaoning_2/index.m3u8#http://39.134.168.91/PLTV/1/224/3221225590/index.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225832/1.m3u8
 山东卫视,http://39.134.168.91/PLTV/1/224/3221225542/index.m3u8#http://39.135.34.150:8080/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012807&owchid=ystenlive&owsid=1106497909461291586&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR3cBsIsjm7UHdGO3a4NjD1C4TiYtYt%2by66pvMI%2bkz57DAkgjzetftIzpJRR8RWa0K#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
 安徽卫视,http://39.134.168.91/PLTV/1/224/3221225548/index.m3u8#http://39.130.215.166:6410/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=008&Provider_id=&Pcontent_id=index.m3u8
 江西卫视,http://39.130.215.166:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8#http://39.130.215.166:6410/gitv_live/JXWS/JXWS.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225834/1.m3u8
 重庆卫视,http://219.153.252.50/PLTV/88888888/224/3221225483/chunklist.m3u8#http://39.134.168.91/PLTV/1/224/3221225576/index.m3u8#http://39.130.215.166:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
 东南卫视,http://39.130.215.166:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8#http://140.207.241.3:8080/live/program/live/dnwshd/4000000/mnf.m3u8#http://39.130.215.166:6410/gitv_live/DNWS/DNWS.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226877/1.m3u8
-海南卫视,http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
+海南卫视,http://stream1.hnntv.cn/lywsgq/sd/live.m3u8?_upt=bf57a81a1595407890#http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 海峡卫视,http://by4.nty.tv189.cn/live/tm-haixiatv-800k.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
 南方卫视,http://39.134.156.12/PLTV/88888888/224/3221225614/index.m3u8
@@ -48,7 +48,7 @@ CNN,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 陕西卫视,http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8
 山西卫视,http://cctvksh5ca.v.kcdnvip.com/wstv/shan1xi_2/index.m3u8
 农林卫视,http://39.130.215.166:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
-新疆卫视,http://39.134.168.91/PLTV/1/224/3221225630/index.m3u8
+新疆卫视,http://39.134.168.91/PLTV/1/224/3221225630/index.m3u8#http://ivi.bupt.edu.cn/hls/xjtv.m3u8#http://livehyw.chinamcache.com/xjtvs/zb0001.flv?auth_key=1595403799-0-0-9a6c09087b2e7cc4d0a8140faf4e5067
 西藏卫视,http://39.134.168.91/PLTV/1/224/3221225648/index.m3u8#http://39.130.215.166:6410/gitv_live/G_XIZANG/G_XIZANG.m3u8
 云南卫视,http://39.134.168.91/PLTV/1/224/3221225632/index.m3u8
 兵团卫视,http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8#http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
