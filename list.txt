@@ -87,15 +87,3 @@ namobile.com/PLTV/3/224/3221226922/index.m3u8#http://112.50.243.8/PLTV/88888888/
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-港澳|星空衛視,mitv://198.255.74.57:12196/5f1343ad000f38beed421b72af5e0f01.ts
-港澳|澳門蓮花,mitv://198.255.74.57:12196/5f1343ad000e5d75ed421b3a69b86c4f.ts
-港澳|鳳凰中文,mitv://198.255.74.57:12196/5f1343ad000d8736ed421b03e6ec7baa.ts
-港澳|鳳凰資訊,mitv://198.255.74.57:12196/5f1343ad000cb426ed421acdcef4529b.ts
-港澳|鳳凰香港,mitv://198.255.74.57:12196/5f1343ad000be01eed421a97168e9011.ts
-港澳|有线新闻,mitv://198.255.74.57:12196/5f1343ad000b0be3ed421a602e6955a9.ts
-港澳|無線新聞,mitv://198.255.74.57:12196/5f1343b3000d17d9ed423257f9a36f91.ts
-港澳|無線財經,mitv://198.255.74.57:12196/5f1343ae0000d087ed421baae2bc861d.ts
-港澳|TVB 翡翠,mitv://198.255.74.57:12196/5f1343b3000c3fcbed42321fc3806541.ts
-港澳|TVB 明珠,mitv://198.255.74.57:12196/5f1343ae000422f3ed421c840b4665c4.ts
-港澳|TVB 星河,mitv://198.255.74.57:12196/5f1343a6000c5937ed41ff5e9f84e565.ts
-港澳|TVB J2台,mitv://198.255.74.57:12196/5f1343b3000df519ed42328f5b667365.ts
