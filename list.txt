@@ -4,7 +4,7 @@ CCTV-2,http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.liv
 CCTV-3,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.168.91/PLTV/1/224/3221225552/index.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 CCTV-4,http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.168.91/PLTV/1/224/3221225554/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 CCTV-5,http://39.134.168.91/PLTV/1/224/3221225556/index.m3u8
-CCTV5+,http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV5+,http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8#http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/1.m3u8
 CCTV-6,http://39.134.168.91/PLTV/1/224/3221225558/index.m3u8#http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
 CCTV-7,http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.168.91/PLTV/1/224/3221225560/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 CCTV-8,http://39.134.168.91/PLTV/1/224/3221225562/index.m3u8
@@ -87,3 +87,15 @@ namobile.com/PLTV/3/224/3221226922/index.m3u8#http://112.50.243.8/PLTV/88888888/
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+港澳|星空衛視,mitv://198.255.74.57:12196/5f1343ad000f38beed421b72af5e0f01.ts
+港澳|澳門蓮花,mitv://198.255.74.57:12196/5f1343ad000e5d75ed421b3a69b86c4f.ts
+港澳|鳳凰中文,mitv://198.255.74.57:12196/5f1343ad000d8736ed421b03e6ec7baa.ts
+港澳|鳳凰資訊,mitv://198.255.74.57:12196/5f1343ad000cb426ed421acdcef4529b.ts
+港澳|鳳凰香港,mitv://198.255.74.57:12196/5f1343ad000be01eed421a97168e9011.ts
+港澳|有线新闻,mitv://198.255.74.57:12196/5f1343ad000b0be3ed421a602e6955a9.ts
+港澳|無線新聞,mitv://198.255.74.57:12196/5f1343b3000d17d9ed423257f9a36f91.ts
+港澳|無線財經,mitv://198.255.74.57:12196/5f1343ae0000d087ed421baae2bc861d.ts
+港澳|TVB 翡翠,mitv://198.255.74.57:12196/5f1343b3000c3fcbed42321fc3806541.ts
+港澳|TVB 明珠,mitv://198.255.74.57:12196/5f1343ae000422f3ed421c840b4665c4.ts
+港澳|TVB 星河,mitv://198.255.74.57:12196/5f1343a6000c5937ed41ff5e9f84e565.ts
+港澳|TVB J2台,mitv://198.255.74.57:12196/5f1343b3000df519ed42328f5b667365.ts
