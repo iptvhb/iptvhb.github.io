@@ -85,9 +85,10 @@ max极速汽车,http://39.134.168.91/PLTV/1/224/3221225600/index.m3u8
 港澳台,#genre#
 凤凰卫视中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://219.147.162.117:65530/live/fhzw/index.m3u8#http://223.110.245.167/ott.js.chi
 namobile.com/PLTV/3/224/3221226922/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰卫视资讯台,http://219.147.162.117:65530/live/fhzx/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.120.138:8080/live/fhzixun/.m3u8
-凤凰卫视香港台,http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
-HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+凤凰卫视资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8#http://219.147.162.117:65530/live/fhzx/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰卫视香港台,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
+HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
+无线新闻台,http://tv.sason.xyz/proxy/tvb.php?id=xw
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 环球电视,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 中华卫视台湾,http://pull.leshantangjt.com/live/playlist.m3u8
