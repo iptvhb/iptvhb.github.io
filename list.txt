@@ -60,6 +60,7 @@ CNN,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 天津卫视,http://39.134.168.91/PLTV/1/224/3221225594/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 金鹰纪实,http://39.130.215.166:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 BTV东奥纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
+峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://ivi.bupt.edu.cn/hls/cetv1.m3u8#http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
 CETV2,http://39.130.215.166:6410/gitv_live/G_CETV-2/G_CETV-2.m3u8
 CETV3,http://ivi.bupt.edu.cn/hls/cetv3.m3u8
@@ -89,6 +90,12 @@ namobile.com/PLTV/3/224/3221226922/index.m3u8#http://112.50.243.8/PLTV/88888888/
 凤凰卫视香港台,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
 无线新闻台,http://tv.sason.xyz/proxy/tvb.php?id=xw
+星空卫视,http://www.dszbdq.cn/play/zjkp.php?ip=52&id=233
+channelv,http://www.dszbdq.cn/play/gz0520.php?id=channelv
+亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 环球电视,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 中华卫视台湾,http://pull.leshantangjt.com/live/playlist.m3u8
+三立新闻,http://60.199.188.66/HLS/WG_ETTV-N/01.m3u8
+求索记录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
