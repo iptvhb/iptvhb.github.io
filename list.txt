@@ -89,6 +89,8 @@ namobile.com/PLTV/3/224/3221226922/index.m3u8#http://112.50.243.8/PLTV/88888888/
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
 无线新闻台,http://tv.sason.xyz/proxy/tvb.php?id=xw
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-
+中华卫视台湾台,http://pull.leshantangjt.com/live/playlist.m3u8
 环球电视,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 求索记录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+TBS新闻台,http://111.13.111.192/60.199.188.66/HLS/WG_TVBS-N/01.m3u8
+三立新闻台,http://111.13.111.192/60.199.188.66/HLS/WG_ETTV-N/01.m3u8
