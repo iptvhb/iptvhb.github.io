@@ -37,7 +37,7 @@ CNN,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 江西卫视,http://39.130.215.166:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8#http://39.130.215.166:6410/gitv_live/JXWS/JXWS.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225834/1.m3u8
 重庆卫视,http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8#http://219.153.252.50/PLTV/88888888/224/3221225483/chunklist.m3u8#http://39.134.168.91/PLTV/1/224/3221225576/index.m3u8#http://39.130.215.166:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
 东南卫视,http://39.134.39.39/PLTV/88888888/224/3221226309/index.m3u8#http://39.130.215.166:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8#http://140.207.241.3:8080/live/program/live/dnwshd/4000000/mnf.m3u8#http://39.130.215.166:6410/gitv_live/DNWS/DNWS.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226877/1.m3u8
-海南卫视,http://cctvalih5ca.v.myalicdn.com/wstv/travel_2/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
+海南卫视,http://140.207.241.3:8080/live/program/live/lyws/1300000/mnf.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/travel_2/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 三沙卫视,http://112.50.243.8/PLTV/88888888/224/3221227002/1.m3u8
 厦门卫视,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 海峡卫视,http://by4.nty.tv189.cn/live/tm-haixiatv-800k.m3u8#http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
