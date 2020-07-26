@@ -55,7 +55,7 @@ CNN,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 云南卫视,http://39.134.168.91/PLTV/1/224/3221225632/index.m3u8#http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
 兵团卫视,http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8#http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
 宁夏卫视,http://39.134.168.91/PLTV/1/224/3221225638/index.m3u8
-贵州卫视,http://39.134.39.39/PLTV/88888888/224/3221226276/index.m3u8#http://39.130.215.166:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8#http://112.50.243.4/PLTV/88888888/224/3221226827/2.m3u8#http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293303.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/guizhou_2/index.m3u8#http://ivi.bupt.edu.cn/hls/gztv.m3u8#http://39.134.168.91/PLTV/1/224/3221225582/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226827/1.m3u8
+贵州卫视,http://39.130.215.166:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226276/index.m3u8##http://112.50.243.4/PLTV/88888888/224/3221226827/2.m3u8#http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293303.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/guizhou_2/index.m3u8#http://ivi.bupt.edu.cn/hls/gztv.m3u8#http://39.134.168.91/PLTV/1/224/3221225582/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226827/1.m3u8
 甘肃卫视,http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8#http://39.134.168.91/PLTV/1/224/3221225636/index.m3u8
 天津卫视,http://39.134.168.91/PLTV/1/224/3221225594/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 金鹰纪实,http://39.130.215.166:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
